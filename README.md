@@ -3,4 +3,7 @@
 
  # Содержание 
  - # Cflculator
- - # QR-код 
+ - # QR-код
+ - # StudentManager
+ - # StudentManager.Tests
+ - # МодульноеТестирование ЛР2
